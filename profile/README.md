@@ -46,8 +46,8 @@ LP案件の確認用リンク一覧です。リンクを開くと現在のLPが�
 
 - [skills-library](https://github.com/GROWX-Inc/skills-library) … 完成したスキル・プロンプトの保管庫。CLAUDE.mdテンプレートの正は `templates/` 配下
 - [sandbox-exec](https://github.com/GROWX-Inc/sandbox-exec) … 【練習用】Claude Codeの実験場（現役）
-- [sandbox-exec2](https://github.com/GROWX-Inc/sandbox-exec2) … 実験場（棚卸し中・山口さん確認待ち）
-- [claude-skills](https://github.com/GROWX-Inc/claude-skills) … 旧スキル置き場（skills-libraryへの統合を検討中・山口さん確認待ち）
+- [sandbox-exec2](https://github.com/GROWX-Inc/sandbox-exec2) … 実験場（現役・汚してOK。完成品はskills-libraryへ一方通行で昇格）
+- [claude-skills](https://github.com/GROWX-Inc/claude-skills) … 旧スキル置き場（skills-libraryへ移設完了・アーカイブ待ち）
 
 ---
 
