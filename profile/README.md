@@ -17,6 +17,7 @@ LP案件の確認用リンク一覧です。リンクを開くと現在のLPが�
 | qr-lp | 先方共有済み・公開URL維持 |
 | google-review | 先方共有済み・公開URL維持 |
 | hybridseal-warp-lp | 先方共有済み・公開URL維持 |
+| lp-monster | 先方共有済み・公開URL維持 |
 | lp-test-hama | 進行中案件のため変更禁止 |
 | lp-test-gota | 進行中案件のため変更禁止 |
 | lp-test-kamakura | 進行中案件のため変更禁止 |
@@ -32,7 +33,7 @@ LP案件の確認用リンク一覧です。リンクを開くと現在のLPが�
 | qr-lp | https://growx-inc.github.io/qr-lp/ | **先方共有済み・公開維持・触らない** | - |
 | hybridseal-warp-lp | https://growx-inc.github.io/hybridseal-warp-lp/ | **先方共有済み・公開維持・触らない** | - |
 | google-review | https://growx-inc.github.io/google-review/ | **先方共有済み・公開維持・触らない** | - |
-| lp-monster | https://growx-inc.github.io/lp-monster/ | 終了（アーカイブ済・リンク維持） | - |
+| lp-monster | https://growx-inc.github.io/lp-monster/ | **先方共有済み・公開維持・触らない** | - |
 | cho-lp-test | （公開ページなし） | 終了（アーカイブ済） | - |
 
 ステータスの意味：**進行中・変更禁止**＝制作中だが現在は変更しない ／ **先方共有済み・公開維持**＝クライアントにURL共有済み。絶対に触らない ／ **終了**＝案件終了（リンクは維持）
