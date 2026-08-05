@@ -19,6 +19,7 @@ LP案件の確認用リンク一覧です。リンクを開くと現在のLPが�
 | hybridseal-warp-lp | 先方共有済み・公開URL維持 |
 | lp-test-hama | 進行中案件のため変更禁止 |
 | lp-test-gota | 進行中案件のため変更禁止 |
+| lp-test-kamakura | 進行中案件のため変更禁止 |
 
 ## LP案件一覧
 
@@ -27,6 +28,7 @@ LP案件の確認用リンク一覧です。リンクを開くと現在のLPが�
 | lp-test-links（案件集約） | https://github.com/GROWX-Inc/lp-test-links | 現役（新規案件はここに集約） | チーム |
 | lp-test-hama | https://growx-inc.github.io/lp-test-hama/ | 進行中・変更禁止 | 濵田 |
 | lp-test-gota | （リンク準備中） | 進行中・変更禁止 | 山口 |
+| lp-test-kamakura | https://growx-inc.github.io/lp-test-kamakura/ | 進行中・変更禁止 | 濵田 |
 | qr-lp | https://growx-inc.github.io/qr-lp/ | **先方共有済み・公開維持・触らない** | - |
 | hybridseal-warp-lp | https://growx-inc.github.io/hybridseal-warp-lp/ | **先方共有済み・公開維持・触らない** | - |
 | google-review | https://growx-inc.github.io/google-review/ | **先方共有済み・公開維持・触らない** | - |
@@ -45,9 +47,9 @@ LP案件の確認用リンク一覧です。リンクを開くと現在のLPが�
 ## 社内用リンク
 
 - [skills-library](https://github.com/GROWX-Inc/skills-library) … 完成したスキル・プロンプトの保管庫。CLAUDE.mdテンプレートの正は `templates/` 配下
-- [sandbox-exec](https://github.com/GROWX-Inc/sandbox-exec) … 【練習用】Claude Codeの実験場（現役）
-- [sandbox-exec2](https://github.com/GROWX-Inc/sandbox-exec2) … 実験場（現役・汚してOK。完成品はskills-libraryへ一方通行で昇格）
+- [sandbox-exec](https://github.com/GROWX-Inc/sandbox-exec) … 【練習用】Claude Codeの実験場（唯一の実験場。個人・案件ごとにサブフォルダを切る。完成品はskills-libraryへ一方通行で昇格）
 - [claude-skills](https://github.com/GROWX-Inc/claude-skills) … 旧スキル置き場（skills-libraryへ移設完了・アーカイブ待ち）
+- sandbox-exec2 … 旧実験場（sandbox-exec/hama へ移設完了・リポジトリ整理待ち）
 
 ---
 
