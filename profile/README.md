@@ -61,6 +61,7 @@ GROWXの全リポジトリの役割の早見表です。ここに載っていな
 | 案件名 | テスト用公開リンク | ステータス | 担当 |
 |---|---|---|---|
 | lp-test-links（案件集約） | https://github.com/GROWX-Inc/lp-test-links | 現役（新規案件はここに集約） | チーム |
+| growx（lp-test-links内） | https://growx-inc.github.io/lp-test-links/growx/ | テスト公開 | 濵田 |
 | lp-test-hama | https://growx-inc.github.io/lp-test-hama/ | 進行中・変更禁止 | 濵田 |
 | lp-test-kamakura | https://growx-inc.github.io/lp-test-kamakura/ | 進行中・変更禁止 | 山口 |
 | qr-lp | https://growx-inc.github.io/qr-lp/ | **先方共有済み・公開維持・触らない** | - |
