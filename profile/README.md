@@ -23,7 +23,6 @@
 |---|---|
 | qr-lp | 先方共有済み・公開URL維持 |
 | google-review | 先方共有済み・公開URL維持 |
-| hybridseal-warp-lp | 先方共有済み・公開URL維持 |
 | lp-monster | 先方共有済み・公開URL維持 |
 | lp-test-hama | 進行中案件のため変更禁止 |
 | lp-test-kamakura | 進行中案件のため変更禁止 |
@@ -46,14 +45,13 @@ GROWXの全リポジトリの役割の早見表です。ここに載っていな
 | リポジトリ | 状態 |
 |---|---|
 | lp-test-hama / lp-test-kamakura | 進行中の個別LP案件 |
-| qr-lp / google-review / hybridseal-warp-lp / lp-monster | 先方共有済みLP（公開URL維持・絶対に触らない） |
+| qr-lp / google-review / lp-monster | 先方共有済みLP（公開URL維持・絶対に触らない） |
 | cho-lp-test | 終了（アーカイブ済） |
 
 ### 旧リポジトリ（移設完了・整理待ち）
 
 | リポジトリ | 状態 |
 |---|---|
-| claude-skills | 中身はskills-libraryへ移設完了。アーカイブ待ち |
 | sandbox-exec2 | 中身はsandbox-exec/hamaへ移設完了。整理待ち |
 
 ## LP案件一覧
@@ -66,7 +64,6 @@ GROWXの全リポジトリの役割の早見表です。ここに載っていな
 | lp-test-hama | https://growx-inc.github.io/lp-test-hama/ | 進行中・変更禁止 | 濵田 |
 | lp-test-kamakura | https://growx-inc.github.io/lp-test-kamakura/ | 進行中・変更禁止 | 山口 |
 | qr-lp | https://growx-inc.github.io/qr-lp/ | **先方共有済み・公開維持・触らない** | - |
-| hybridseal-warp-lp | https://growx-inc.github.io/hybridseal-warp-lp/ | **先方共有済み・公開維持・触らない** | - |
 | google-review | https://growx-inc.github.io/google-review/ | **先方共有済み・公開維持・触らない** | - |
 | lp-monster | https://growx-inc.github.io/lp-monster/ | **先方共有済み・公開維持・触らない** | - |
 | cho-lp-test | （公開ページなし） | 終了（アーカイブ済） | - |
@@ -83,4 +80,4 @@ GROWXの全リポジトリの役割の早見表です。ここに載っていな
 
 ---
 
-最終更新：2026-08-06（このページはClaudeが作業のたびに自動更新します）
+最終更新：2026-08-17（このページはClaudeが作業のたびに自動更新します）
