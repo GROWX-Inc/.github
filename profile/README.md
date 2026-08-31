@@ -56,6 +56,7 @@ GROWXの全リポジトリの役割の早見表です。ここに載っていな
 | growx（lp-test-links内） | https://growx-inc.github.io/lp-test-links/growx/ | テスト公開 | 濵田 |
 | lp-chokatsu（lp-test-links内） | https://growx-inc.github.io/lp-test-links/lp-chokatsu/ | テスト公開 | 濵田 |
 | gyosei-sample（lp-test-links内） | https://growx-inc.github.io/lp-test-links/gyosei-sample/ | テスト公開（社内サンプル・行政書士） | 山口 |
+| growx-alliance-partner（lp-test-links内） | https://growx-inc.github.io/lp-test-links/growx-alliance-partner/ | テスト公開（営業資料・アライアンスパートナー募集デッキ） | 濵田 |
 | lp-test-hama | https://growx-inc.github.io/lp-test-hama/ | 進行中・変更禁止 | 濵田 |
 | lp-test-kamakura | https://growx-inc.github.io/lp-test-kamakura/ | 進行中・変更禁止 | 山口 |
 | qr-lp | https://growx-inc.github.io/qr-lp/ | **先方共有済み・公開維持・触らない** | - |
