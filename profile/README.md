@@ -75,6 +75,7 @@ GROWXの全リポジトリの役割の早見表です。ここに載っていな
 | 01 | ポータルズーム（スクロール連動モーション） | https://growx-inc.github.io/portfolio/01/ | 濵田 |
 | 02 | 抹茶ドリンクLP（スクロール連動モーション） | https://growx-inc.github.io/portfolio/02/ | 濵田 |
 | 03 | LUMIÈRE 美容クリニック（湾曲カルーセル） | https://growx-inc.github.io/portfolio/03/ | 濵田 |
+| 04 | Bespoke Architecture Studio（円筒スクリーン型カルーセル） | https://growx-inc.github.io/portfolio/04/ | 濵田 |
 
 作品の追加は「portfolioに作品を追加して」とClaudeに依頼するだけ。**番号はClaudeが自動採番**（既存の最大番号＋1）するので、人が番号や名前を考える必要はない。修正ログ自動記録の対象外なのでPRは不要。
 
