@@ -77,6 +77,7 @@ GROWXの全リポジトリの役割の早見表です。ここに載っていな
 | 03 | LUMIÈRE 美容クリニック（湾曲カルーセル） | https://growx-inc.github.io/portfolio/03/ | 濵田 |
 | 04 | Bespoke Architecture Studio（円筒スクリーン型カルーセル） | https://growx-inc.github.io/portfolio/04/ | 濵田 |
 | 05 | A Quiet Escape（水面波紋ヒーロー・マウス追従） | https://growx-inc.github.io/portfolio/05/ | 山口 |
+| 06 | ORBIT ポスター（マウス追従モーフ・リビール） | https://growx-inc.github.io/portfolio/06/ | 山口 |
 
 作品の追加は「portfolioに作品を追加して」とClaudeに依頼するだけ。**番号はClaudeが自動採番**（既存の最大番号＋1）するので、人が番号や名前を考える必要はない。修正ログ自動記録の対象外なのでPRは不要。
 
