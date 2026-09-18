@@ -58,7 +58,8 @@ GROWXの全リポジトリの役割の早見表です。ここに載っていな
 | growx（lp-test-links内） | https://growx-inc.github.io/lp-test-links/growx/ | テスト公開 | 濵田 |
 | lp-chokatsu（lp-test-links内） | https://growx-inc.github.io/lp-test-links/lp-chokatsu/ | テスト公開 | 濵田 |
 | gyosei-sample（lp-test-links内） | https://growx-inc.github.io/lp-test-links/gyosei-sample/ | テスト公開（社内サンプル・行政書士） | 山口 |
-| growx-alliance-partner（lp-test-links内） | https://growx-inc.github.io/lp-test-links/growx-alliance-partner/ | テスト公開（営業資料・アライアンスパートナー募集デッキ） | 濵田 |
+| growx-experience-site（AI BPO事業 営業資料） | https://www.growx.co.jp/growx-experience-site/ | **本番公開**（お名前.com RSプラン・公開ディレクトリ `public_html/growx.co.jp/`） | 濵田 |
+| growx-alliance-partner（lp-test-links内） | https://growx-inc.github.io/lp-test-links/growx-alliance-partner/ | **転送ページのみ・削除禁止**（配布済みリンク救済のため、上の本番URLへ自動転送） | 濵田 |
 | lp-test-hama | https://growx-inc.github.io/lp-test-hama/ | 進行中・変更禁止 | 濵田 |
 | lp-test-kamakura | https://growx-inc.github.io/lp-test-kamakura/ | 進行中・変更禁止 | 山口 |
 | qr-lp | https://growx-inc.github.io/qr-lp/ | **先方共有済み・公開維持・触らない** | - |
@@ -66,7 +67,7 @@ GROWXの全リポジトリの役割の早見表です。ここに載っていな
 | lp-monster | https://growx-inc.github.io/lp-monster/ | **先方共有済み・公開維持・触らない** | - |
 | cho-lp-test | （公開ページなし） | 終了（アーカイブ済） | - |
 
-ステータスの意味：**進行中・変更禁止**＝制作中だが現在は変更しない ／ **先方共有済み・公開維持**＝クライアントにURL共有済み。絶対に触らない ／ **終了**＝案件終了（リンクは維持）
+ステータスの意味：**進行中・変更禁止**＝制作中だが現在は変更しない ／ **先方共有済み・公開維持**＝クライアントにURL共有済み。絶対に触らない ／ **本番公開**＝テストリンクではなく自社ドメインで公開中 ／ **転送ページのみ・削除禁止**＝中身は本番へ移設済み。配布済みの旧リンクを生かすための転送ページだけが残っている ／ **終了**＝案件終了（リンクは維持）
 
 ## ポートフォリオ作品一覧
 
@@ -83,6 +84,15 @@ GROWXの全リポジトリの役割の早見表です。ここに載っていな
 
 作品の追加は「portfolioに作品を追加して」とClaudeに依頼するだけ。**番号はClaudeが自動採番**（既存の最大番号＋1）するので、人が番号や名前を考える必要はない。修正ログ自動記録の対象外なのでPRは不要。
 
+## 本番公開（自社ドメイン）について
+
+テストリンクではなく `growx.co.jp` で正式公開する案件は、下記の環境に置きます。
+
+- ホスティング：**お名前.com レンタルサーバー RSプラン**（ドメインもお名前.com）
+- 公開ディレクトリ：`public_html/growx.co.jp/`。この直下に案件フォルダを置くと `https://www.growx.co.jp/{案件フォルダ}/` で公開される
+- 既存ファイル（WordPress本体・トップページなど）には絶対に触らない。**新しい案件フォルダを増やすだけ**
+- 本番へ移した案件は、GitHub側の旧フォルダを**転送ページ1枚だけ残す**。配布済みのリンクが死なないようにするため、この転送ページは削除禁止
+
 ## 運用ルール（打ち止め方式・確定済み）
 
 1. **新規LP案件は原則 [lp-test-links](https://github.com/GROWX-Inc/lp-test-links) のサブフォルダ**で管理する（`lp-test-links/{案件フォルダ}/`）。リポジトリはこれ以上増やさない
@@ -93,4 +103,4 @@ GROWXの全リポジトリの役割の早見表です。ここに載っていな
 
 ---
 
-最終更新：2026-09-11（このページはClaudeが作業のたびに自動更新します）
+最終更新：2026-09-18（このページはClaudeが作業のたびに自動更新します）
