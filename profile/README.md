@@ -81,6 +81,8 @@ GROWXの全リポジトリの役割の早見表です。ここに載っていな
 | 06 | ORBIT ポスター（マウス追従モーフ・リビール） | https://growx-inc.github.io/portfolio/06/ | 山口 |
 | 07 | Aura（店舗・ホテル向けAI受付プラットフォーム LP） | https://growx-inc.github.io/portfolio/07/ | 山口 |
 | 08 | Aethera（ランドスケープデザインスタジオ ヒーロー・動画背景） | https://growx-inc.github.io/portfolio/08/ | 山口 |
+| 09 | 羊3DモデルLP（3Dモデル・スクロール連動） | https://growx-inc.github.io/portfolio/09/ | 濵田 |
+| 10 | 露葉 ボタニカルローションLP（写真から作る3Dボトル） | https://growx-inc.github.io/portfolio/10/ | 山口 |
 
 作品の追加は「portfolioに作品を追加して」とClaudeに依頼するだけ。**番号はClaudeが自動採番**（既存の最大番号＋1）するので、人が番号や名前を考える必要はない。修正ログ自動記録の対象外なのでPRは不要。
 
@@ -103,4 +105,4 @@ GROWXの全リポジトリの役割の早見表です。ここに載っていな
 
 ---
 
-最終更新：2026-09-18（このページはClaudeが作業のたびに自動更新します）
+最終更新：2026-10-01（このページはClaudeが作業のたびに自動更新します）
