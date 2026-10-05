@@ -60,6 +60,10 @@ GROWXの全リポジトリの役割の早見表です。ここに載っていな
 | gyosei-sample（lp-test-links内） | https://growx-inc.github.io/lp-test-links/gyosei-sample/ | テスト公開（社内サンプル・行政書士） | 山口 |
 | growx-experience-site（AI BPO事業 営業資料） | https://www.growx.co.jp/growx-experience-site/ | **本番公開**（お名前.com RSプラン・公開ディレクトリ `public_html/growx.co.jp/`） | 濵田 |
 | growx-alliance-partner（lp-test-links内） | https://growx-inc.github.io/lp-test-links/growx-alliance-partner/ | **転送ページのみ・削除禁止**（配布済みリンク救済のため、上の本番URLへ自動転送） | 濵田 |
+| taiken-05-supplement（lp-test-links内） | https://growx-inc.github.io/lp-test-links/taiken-05-supplement/ | テスト公開（AI BPO体験カタログ05・商品が分解する／架空のサプリ） | 濵田 |
+| taiken-06-logistics（lp-test-links内） | https://growx-inc.github.io/lp-test-links/taiken-06-logistics/ | テスト公開（AI BPO体験カタログ06・社名入りの荷物が運ばれる／架空の発送代行） | 濵田 |
+| taiken-07-recruit（lp-test-links内） | https://growx-inc.github.io/lp-test-links/taiken-07-recruit/ | テスト公開（AI BPO体験カタログ07・答えるたびに道が分かれる／架空の人材紹介） | 濵田 |
+| taiken-08-ryokan（lp-test-links内） | https://growx-inc.github.io/lp-test-links/taiken-08-ryokan/ | テスト公開（AI BPO体験カタログ08・比較サイト風の画面を破る／架空の旅館） | 濵田 |
 | lp-test-hama | https://growx-inc.github.io/lp-test-hama/ | 進行中・変更禁止 | 濵田 |
 | lp-test-kamakura | https://growx-inc.github.io/lp-test-kamakura/ | 進行中・変更禁止 | 山口 |
 | qr-lp | https://growx-inc.github.io/qr-lp/ | **先方共有済み・公開維持・触らない** | - |
@@ -105,4 +109,4 @@ GROWXの全リポジトリの役割の早見表です。ここに載っていな
 
 ---
 
-最終更新：2026-10-01（このページはClaudeが作業のたびに自動更新します）
+最終更新：2026-10-05（このページはClaudeが作業のたびに自動更新します）
