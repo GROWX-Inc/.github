@@ -65,7 +65,7 @@ GROWXの全リポジトリの役割の早見表です。ここに載っていな
 | taiken-07-recruit（lp-test-links内） | https://growx-inc.github.io/lp-test-links/taiken-07-recruit/ | テスト公開（AI BPO体験カタログ07・答えるたびに道が分かれる／架空の人材紹介） | 濵田 |
 | taiken-08-ryokan（lp-test-links内） | https://growx-inc.github.io/lp-test-links/taiken-08-ryokan/ | テスト公開（AI BPO体験カタログ08・比較サイト風の画面を破る／架空の旅館） | 濵田 |
 | taiken-09-apparel（lp-test-links内） | https://growx-inc.github.io/lp-test-links/taiken-09-apparel/ | テスト公開（AI BPO体験カタログ09・体型を選んで着用姿を回して見る／架空のアパレル） | 濵田 |
-| samurai-gel（lp-test-links内） | https://growx-inc.github.io/lp-test-links/samurai-gel/ | テスト公開（SAMURAI GEL ブランドサイト デザインカンプ・先方確認用） | 濵田 |
+| samurai-gel（lp-test-links内） | https://growx-inc.github.io/lp-test-links/samurai-gel/ | テスト公開（SAMURAI GEL ブランドサイト モック・先方確認用） | 濵田 |
 | lp-test-hama | https://growx-inc.github.io/lp-test-hama/ | 進行中・変更禁止 | 濵田 |
 | lp-test-kamakura | https://growx-inc.github.io/lp-test-kamakura/ | 進行中・変更禁止 | 山口 |
 | qr-lp | https://growx-inc.github.io/qr-lp/ | **先方共有済み・公開維持・触らない** | - |
